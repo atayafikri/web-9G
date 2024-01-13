@@ -172,3 +172,58 @@ body{
 .ombak{
 	margin-top: 80px;
 }
+
+.agama-alert{
+	width: 20%;
+	margin-left: 35px;
+	margin-top: 250px;
+}
+
+.agama-alert .card h5{
+	color: red;
+}
+
+.tugas-bindo img{
+	width: 70%;
+	margin-left: 50px;
+	margin-top: 100px;
+}
+
+.tugas-bindo p{
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+.senbud-alert .card{
+	width: 20%;
+	margin-left: 35px;
+	margin-top: 250px;
+}   
+
+.senbud-alert .card h5{
+	color: red;
+}
+
+.prakarya-alert .card{
+	width: 20%;
+	margin-left: 35px;
+	margin-top: 250px;
+} 
+
+.prakarya-alert .card h5{
+	color: red;
+}
+
+.reminder{
+	width: 80%;
+	margin-top: 70px;
+	margin-left: 30px;
+}
+
+.reminder span{
+	color: red;
+}
+
+.reminder span{
+	color: red;
+}

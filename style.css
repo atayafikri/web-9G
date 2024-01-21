@@ -175,8 +175,6 @@ body{
 
 .agama-alert{
 	width: 20%;
-	margin-left: 35px;
-	margin-top: 250px;
 }
 
 .agama-alert .card h5{
@@ -202,6 +200,10 @@ body{
 .senbud-alert .card h5{
 	color: red;
 }
+
+.senbud-alert .card span{
+	color: red;
+}   
 
 .prakarya-alert .card{
 	width: 20%;
